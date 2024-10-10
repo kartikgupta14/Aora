@@ -1,32 +1,46 @@
-#Aora
-Video Sharing App
+# Aora  
+A Modern Video Sharing App
 
-#⚙️ Tech Stack
-React Native
-Expo
-Nativewind
-Animatable
-Appwrite
-🔋 Features
-👉 Onboarding Screen: Engaging graphics and clear instructions welcome users to the app.
+## ⚙️ Tech Stack
+- **React Native**
+- **Expo**
+- **Nativewind**
+- **Animatable**
+- **Appwrite**
 
-👉 Robust Authentication & Authorization System: Secure email login safeguards user accounts.
+## 🔋 Features
 
-👉 Dynamic Home Screen with Animated Flat List: Smoothly animated flat list showcases the latest videos for seamless browsing.
+- **Onboarding Screen**:  
+  Engaging graphics and clear instructions that welcome users to the app.
 
-👉 Pull-to-Refresh Functionality: Users can refresh content with a simple pull gesture for up-to-date information.
+- **Robust Authentication & Authorization**:  
+  Secure email login system that safeguards user accounts.
 
-👉 Full-Text Search Capability: Efficiently search through videos with real-time suggestions and instant results.
+- **Dynamic Home Screen with Animated Flat List**:  
+  Smooth, animated flat list that showcases the latest videos for seamless browsing.
 
-👉 Tab Navigation: Navigate between sections like Home, Search, and Profile with ease using tab navigation.
+- **Pull-to-Refresh**:  
+  Simple pull gesture allows users to refresh content and get up-to-date information.
 
-👉 Post Creation Screen for Uploading Media: Upload video and image posts directly from the app with integrated media selection.
+- **Full-Text Search Capability**:  
+  Efficient searching with real-time suggestions and instant results.
 
-👉 Profile Screen with Detailed Insights: View account details and activity, including uploaded videos and follower count, for a personalized experience.
+- **Tab Navigation**:  
+  Easy navigation between sections like Home, Search, and Profile with tab navigation.
 
-👉 Responsiveness: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
+- **Post Creation Screen for Uploading Media**:  
+  Upload videos and images directly from the app with integrated media selection.
 
-👉 Animations: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
+- **Profile Screen with Detailed Insights**:  
+  View account details and activity, including uploaded videos and follower count for a personalized experience.
 
-and many more, including code architecture and reusability
+- **Responsiveness**:  
+  Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
 
+- **Animations**:  
+  Dynamic UI animations powered by the Animatable library to enhance user interaction and engagement.
+
+- **Code Architecture and Reusability**:  
+  Well-structured codebase ensuring reusability, scalability, and maintainability.
+
+![image](https://github.com/user-attachments/assets/e68cbb4c-dc6d-4d5d-9df6-22076843636b)
