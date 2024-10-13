@@ -44,3 +44,6 @@ A Modern Video Sharing App
   Well-structured codebase ensuring reusability, scalability, and maintainability.
 
 ![image](https://github.com/user-attachments/assets/e68cbb4c-dc6d-4d5d-9df6-22076843636b)
+
+![image](https://github.com/user-attachments/assets/1ba957d5-bd61-4a94-a0f1-ebee6c17adb6)
+
